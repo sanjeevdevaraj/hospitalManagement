@@ -1,7 +1,7 @@
 # hospitalManagement
 Entire Hospital Management
 
-Kinldy use belwo URL to get API details:
+Kinldy use below swagger URL to get API details:
 
 http://localhost:8090/hospmgmt/swagger-ui
 
